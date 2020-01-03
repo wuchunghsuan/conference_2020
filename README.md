@@ -3,7 +3,7 @@
 ## A class
 
 
-~~- USENIX ATC '20~~
+- USENIX ATC '20
   -  January 15, 2020
 
 - SC 2020
@@ -16,7 +16,7 @@
 
 ## B class
 
-- ~~- ICDCS~~
+- ICDCS
   - January 13, 2020
 
 - HPDC 2020
