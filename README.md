@@ -16,11 +16,20 @@
 
 ## B class
 
-~~- ICDCS~~
+- ~~- ICDCS~~
   - January 13, 2020
+
+- HPDC 2020
+  - January 16, 2020
+
+- ICS-2020
+  - January 24th, 2020 (abstract), January 31st, 2020 (full paper)
 
 - ACM PODC 2020
   - 17 February 2020
+
+- ICPP 2020
+  - Mar 2, 2020
 
 - CLUSTER 2020
   - Abstract deadline: May 3, 2020
@@ -31,3 +40,4 @@
 
 - EuroSys 2021
 
+- IPDPS 2021
