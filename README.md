@@ -7,7 +7,6 @@
   -  January 15, 2020
 
 - SC 2020
-    - February 28, 2020 – Submissions open
     - March 31, 2020 – Abstracts submission deadline
     - April 8, 2020 – Full paper deadline (No extensions; includes manuscript, AD, and optional AE appendix)
 
